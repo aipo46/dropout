@@ -54,10 +54,15 @@ Dicoding Repository https://github.com/dicodingacademy/dicoding_dataset/blob/mai
 
 https://public.tableau.com/views/Dropout_Analytic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+## ***Prototype Solusi Machine Learning***
+
+*Prototype* dibuat dengan menggunakan *Streamlit* untuk menampilkan prediksi data dari variabel-variabel data terhadap *Dropout*. *Prototype* dapat diakses pada *link* berikut ini:
+
+https://jayainstitute.streamlit.app/
 
 ## ***Conclusion***
 
-- Tingkat kelulusan siswa tingkat ketidaklulusan (*Dropout Rate*) sebesar 39,15% dari 3.630 siswa.
+- Tingkat ketidaklulusan (*Dropout Rate*) sebesar 39,15% dari 3.630 siswa.
 - Tingkat ketidaklulusan cukup seimbang antara siswa Laki-laki 720 siswa dan siswa Perempuan 701 siswa.
 - Dari 1.421 siswa yang *dropout* sebanyak 1287 siswa tidak menerima beasiswa.
 - Dari 1.421 siswa yang *dropout* terdapat 1.214 siswa yang mengikuti kelas pagi dan 207 siswa yang mengikuti kelas malam.
